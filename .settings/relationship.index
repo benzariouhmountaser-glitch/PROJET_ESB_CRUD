@@ -1,0 +1,144 @@
+[ {
+  "baseItem" : {
+    "id" : "_NA34wNDNEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_IZrKgNDVEfGSGutsC08DqQ - clients",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_iYRI8NEhEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_j3uwkNEhEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_j9InoNFmEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_l1FOENEhEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_sPNjcNEiEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_IZrKgNDVEfGSGutsC08DqQ - clients",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vYtD8NEiEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "PROJECT_ESB:_NA34wNDNEfGSGutsC08DqQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJECT_ESB:_iYRI8NEhEfGSGutsC08DqQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJECT_ESB:_j3uwkNEhEfGSGutsC08DqQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJECT_ESB:_l1FOENEhEfGSGutsC08DqQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJECT_ESB:_zPmLENEkEfGSGutsC08DqQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zPmLENEkEfGSGutsC08DqQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_IZrKgNDVEfGSGutsC08DqQ - clients",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
